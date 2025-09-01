@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: testlearn
+Version: 0.1.0
+Summary: A test package for learning
+Author: Praise
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown

@@ -1,0 +1,7 @@
+pyproject.toml
+src/testlearn/__init__.py
+src/testlearn/operations.py
+src/testlearn.egg-info/PKG-INFO
+src/testlearn.egg-info/SOURCES.txt
+src/testlearn.egg-info/dependency_links.txt
+src/testlearn.egg-info/top_level.txt
